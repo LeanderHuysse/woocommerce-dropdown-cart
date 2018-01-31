@@ -1,0 +1,11 @@
+
+{
+    "name": "IOLabs/woocommerce-dropdown-cart",
+    "description": "Plugin mirror for: woocommerce-dropdown-cart",
+    "license": "GPL",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3.2",
+        "composer/installers": "v1.0.6"
+    }
+}
